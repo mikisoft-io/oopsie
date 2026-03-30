@@ -1,0 +1,71 @@
+# Terms of Service for Oopsie
+
+**Last updated:** March 30, 2026
+
+## Acceptance of Terms
+
+By installing or using Oopsie ("the Extension"), you agree to these Terms of Service. If you do not agree, do not install or use the Extension.
+
+## Description of Service
+
+Oopsie is a browser extension that applies user-configured text replacements to messages before they are sent to AI assistant websites. It is provided as a productivity and privacy tool.
+
+## Disclaimer of Warranties
+
+THE EXTENSION IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+The developer does not warrant that:
+- The Extension will meet your specific requirements.
+- The Extension will operate uninterrupted, timely, securely, or error-free.
+- All sensitive information will be detected and redacted correctly.
+- The results obtained from the Extension will be accurate or reliable.
+- The Extension will be compatible with all websites, browsers, or browser versions.
+
+## Limitation of Liability
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE DEVELOPER SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO:
+
+- Loss of data or privacy breaches resulting from incomplete or failed redaction.
+- Damages arising from reliance on the Extension to protect sensitive information.
+- Any damages resulting from unauthorized access to or alteration of your data.
+- Any other matter relating to the Extension.
+
+IN NO EVENT SHALL THE DEVELOPER'S TOTAL LIABILITY EXCEED THE AMOUNT PAID BY YOU FOR THE EXTENSION (WHICH IS ZERO FOR FREE VERSIONS).
+
+## User Responsibilities
+
+You acknowledge and agree that:
+- **The Extension is a tool, not a guarantee.** You are solely responsible for reviewing your messages before sending them to ensure sensitive information has been properly redacted.
+- **You should verify replacements.** The preview feature exists to help you confirm replacements are correct before sending.
+- **Custom regex patterns are your responsibility.** Incorrectly configured rules may fail to match intended text or may match unintended text.
+- **You are responsible for compliance** with any applicable laws or regulations regarding the handling of sensitive data in your jurisdiction.
+
+## No Professional Advice
+
+The Extension does not constitute legal, compliance, or data protection advice. It is a text replacement tool. If you require compliance with specific data protection regulations (such as GDPR, HIPAA, or others), consult a qualified professional.
+
+## Modifications
+
+The developer reserves the right to modify or discontinue the Extension at any time without notice. The developer shall not be liable to you or any third party for any modification, suspension, or discontinuation.
+
+These Terms may be updated from time to time. Continued use of the Extension after changes constitutes acceptance of the revised Terms.
+
+## Intellectual Property
+
+The Extension and its original content, features, and functionality are owned by the developer and are protected by applicable copyright and intellectual property laws.
+
+## Termination
+
+You may stop using the Extension at any time by uninstalling it. The developer may also terminate or restrict access to the Extension at any time, for any reason, without notice.
+
+## Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which the developer resides, without regard to conflict of law provisions.
+
+## Severability
+
+If any provision of these Terms is found to be unenforceable, the remaining provisions shall remain in full effect.
+
+## Contact
+
+mikisoft.io@gmail.com
